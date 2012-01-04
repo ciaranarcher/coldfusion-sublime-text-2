@@ -2,7 +2,7 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-      <string>&lt;cffunction ${1:${2:name="$3" }${4:returntype="$5" }${6:roles="$7" }${8:access="$9" }${10:output="$11" }${12:displayname="$13" }${14:hint="$15" }${16:description="$17"}}&gt;
+      <string>&lt;cffunction ${1:${2:name="$3" }${8:access="$9" }${4:returntype="$5" }${10:output="$11" }${14:hint="$15" }}&gt;
 	$0
 &lt;/cffunction&gt;</string>
       <key>name</key>
