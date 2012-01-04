@@ -2,7 +2,7 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-      <string>&lt;cfargument ${1:${2:name="$3" }${4:type="$5" }${6:required="$7" }${8:default="$9" }${10:displayname="$11" }${12:hint="$13"}} /&gt;$0</string>
+      <string>&lt;cfargument ${1:${2:name="$3" }${4:type="$5" }${6:required="$7" }${8:default="$9" }} /&gt;$0</string>
       <key>name</key>
       <string>cfargument</string>
       <key>scope</key>
